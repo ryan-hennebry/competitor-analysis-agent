@@ -1,11 +1,6 @@
-I need write permission to save the README. Here's the content — please grant write access or copy it directly:
-
-```markdown
 # Competitor Analysis Agent
 
-Your competitors changed their pricing last week. A new player entered your market. Someone's hero headline now sounds a lot like yours. You found out three months later.
-
-This agent monitors your competitive landscape and tells you what changed — with specific quotes, sources, and recommendations you can act on.
+This agent monitors your competitive landscape and tells you what changed — with specific recommendations you can act on.
 
 ## Example Output
 
@@ -178,4 +173,3 @@ It can handle these because it understands the goal, not just the steps.
 ## License
 
 MIT
-```
